@@ -1,0 +1,8 @@
+[package]
+name = "Lab5graph"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+raylib = "5.5.1"
+tobj = "4.0.3"
