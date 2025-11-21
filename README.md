@@ -23,14 +23,14 @@ Abre tu terminal y ejecuta el siguiente comando para descargar el código fuente
 
 git clone https://github.com/Qu3zada22/Lab5-graficas.git
 
-
-<img width="966" height="604" alt="imagen" src="https://github.com/user-attachments/assets/7c04a099-2923-40d7-bd03-7425bc35e4f4" />
-
-
-
 2. Ejecutar el Proyecto
 
 Navega al directorio del proyecto y usa Cargo para compilar y ejecutar:
 
 cd lab5graph
 cargo run
+
+
+
+
+<img width="966" height="604" alt="imagen" src="https://github.com/user-attachments/assets/f09d6c6e-cf60-4773-b696-5a0a90c1c0f4" />
